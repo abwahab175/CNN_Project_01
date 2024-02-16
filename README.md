@@ -16,16 +16,13 @@
 [Click here to download data](https://github.com/entbappy/Branching-tutorial/raw/master/cat-dog-data.zip)
 
 
-## Youtube Playlist of this project implementation:
-[Click here](https://youtube.com/playlist?list=PLkz_y24mlSJZtxpM7dkfiOYxs6PZXHt0_)
-
 # How to run?
 ### STEPS:
 
 Clone the repository
 
 ```bash
-https://github.com/entbappy/cnnClassifier
+
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -56,9 +53,9 @@ open up you local host and port
 
 
 ```bash
-Author: Bappy Ahmed
+Author: Abdul Wahab
 Data Scientist
-Email: entbappy73@gmail.com
+Email: abwahab175@gmail.com
 
 ```
 
